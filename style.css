@@ -114,21 +114,21 @@ body{
 }
 .child-one{
     background-color: #EDF5F6;
-    padding: 40px 40px;
+    padding: 30px 30px;
     border-radius: 10px;
     justify-content: left;
     margin: 0 10px;
 }
 .child-two{
     background-color: #FFEEEE;
-    padding: 40px 40px;
+    padding: 30px 30px;
     border-radius: 10px;
     justify-content: left;
     margin: 0 10px;
 }
 .child-three{
     background-color: #FFF4D6;
-    padding: 40px 40px;
+    padding: 30px 30px;
     border-radius: 10px;
     justify-content: left;
     margin: 0 10px;
