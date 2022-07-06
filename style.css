@@ -157,8 +157,9 @@ body{
 }
 .box{
     box-shadow: 10px 10px 40px gray;
-    padding: 15px 15px 15px 15px;
+    padding: 15px 40px;
     border-radius: 10px;
+    padding-bottom: 50px;
 }
 /* ========== HAPPINESS SECTION END ========== */
 
