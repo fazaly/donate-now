@@ -141,25 +141,24 @@ body{
 /* ========== HAPPINESS SECTION START ========== */
 .happiness{
     display: flex;
-    flex: 50%, 50%;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    margin: auto;
     margin-bottom: 100px;
 }
-.happiness-title{
-    margin: 0 100px;
+.happiness-title, 
+.happiness-img img{
+    width: 450px;
+    padding: 20px 30px 20px 30px;
+    box-shadow: 5px 15px 20px gray;
+    border-radius: 30px;
+    margin-left: 20px;
 }
 .happiness-title h1{
     font-size: 45px;
 }
-.happiness-title img{
-    width: 100%;
-    border-radius: 5px;
-}
-.box{
-    box-shadow: 10px 10px 40px gray;
-    padding: 15px 40px;
-    border-radius: 10px;
-    padding-bottom: 50px;
-}
+
 /* ========== HAPPINESS SECTION END ========== */
 
 /* ========== CONTACT SECTION START ========== */
